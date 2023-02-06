@@ -23,5 +23,5 @@ $ git clone https://github.com/TOXIC-S4GOR/R4NDM
 
 $ cd R4NDM
 
-python S4GOR.py
+python R4NDM.py
 
